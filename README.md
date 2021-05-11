@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @uc-anr
+- 👋 Hi, I’m Ankit Kumar
 - 👀 I’m interested in Javascript.
-- 🌱 I’m currently learning Js.
+- 🌱 I’m currently learning Svelte.
